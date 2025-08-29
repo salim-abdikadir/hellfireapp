@@ -39,7 +39,7 @@ const Loading = () => {
             transform: translateY(-10px);
           }
         }
-        .animate-bounce-slow {
+        .animate-bounce-slo{
           animation: bounce-slow 1.6s infinite;
         }
       `}</style>
